@@ -1,7 +1,7 @@
 site_name: My Docs
 theme:
   name: material
-  
 nav:
-    - 'index.md'
-    - 'zz.md'
+  - Home: index.md
+  - Getting started:
+    - Installation: zz.md
